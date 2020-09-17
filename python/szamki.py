@@ -1,0 +1,13 @@
+print("John Smith, 2020-09-10, Szoftverfejlesztő 1")
+print("aaa")
+print("aaa")
+print('aaa' , "aabb")
+print(85+2)
+print(75*2)
+print("\n\n\nalma\nkörte")
+print("alma\bkörte")
+print("\x45")
+print("alma\tkörte")
+print("\n\u7a7a \u624b")
+print('\a\a\a')
+
